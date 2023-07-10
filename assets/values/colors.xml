@@ -1,0 +1,13 @@
+<resources>
+    <color name="red">#F8373F</color>
+    <color name="bg_black">#211D1E</color>
+    <color name="primary_dark">#F4F5F6</color>
+    <color name="primary_light">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="text_black">#211D1E</color>
+    <color name="text_gray">#7F7E7E</color>
+    <color name="gray">#C9C8C8</color>
+    <color name="light_red">#F8CBCD</color>
+    <color name="green">#37F89B</color>
+    <color name="text_red">#8F2024</color>
+</resources>
