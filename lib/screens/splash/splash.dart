@@ -11,9 +11,7 @@ class Splash extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    /*Future.delayed(const Duration(seconds: 2), () {
-
-    });*/
+    _splashController.navigateToProducts();
 
     return Scaffold(
       body: Container(

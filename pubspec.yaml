@@ -47,7 +47,11 @@ dependencies:
   #Permission Handler
   permission_handler: ^10.3.0
 
+  #Networking
+  dio: ^5.2.1+1
 
+  #Cahced Network Image
+  cached_network_image: ^3.2.3
 
 dev_dependencies:
   flutter_test:
