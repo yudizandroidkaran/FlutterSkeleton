@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_skeleton/components/loader_overlay.dart';
 import 'package:flutter_skeleton/gen/colors.gen.dart';
-import 'package:flutter_skeleton/screens/products/product_list_controller.dart';
+import 'package:flutter_skeleton/presentation/screens/products/product_list_controller.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';
+
+import '../../components/loader_overlay.dart';
 
 class ProductList extends StatelessWidget {
   ProductList({super.key});

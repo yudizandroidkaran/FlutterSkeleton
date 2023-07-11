@@ -1,11 +1,11 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_skeleton/components/widget_utils.dart';
+import 'package:flutter_skeleton/presentation/components/widget_utils.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:sizer/sizer.dart';
 
-import '../components/custom_button.dart';
+import '../presentation/components/custom_button.dart';
 
 class MyPermissionHandler {
   static Future<PermissionStatus> askPermission(Permission permission) async {

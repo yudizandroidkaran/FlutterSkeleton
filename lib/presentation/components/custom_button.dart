@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_skeleton/components/widget_utils.dart';
+import 'package:flutter_skeleton/presentation/components/widget_utils.dart';
 import 'package:sizer/sizer.dart';
 
-import '../gen/colors.gen.dart';
-import '../utils/strings.dart';
+import '../../gen/colors.gen.dart';
+import '../../model/strings.dart';
 
 class CustomButton extends StatelessWidget {
   final String buttonText;

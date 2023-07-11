@@ -1,6 +1,6 @@
 import 'package:hive/hive.dart';
 
-import '../utils/storage_constants.dart';
+import '../constants/storage_constants.dart';
 
 /*Local storage service where in you can store different data in key value pairs
 It contains the operator functions through which you will be able to set and get data for same key*/

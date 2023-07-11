@@ -1,8 +1,9 @@
-import 'package:flutter_skeleton/constants/apis.dart';
-import 'package:flutter_skeleton/services/api_service.dart';
-import 'package:flutter_skeleton/utils/snack_bar_utils.dart';
 import 'package:get/get.dart';
-import '../../models/response/products.dart';
+
+import '../../../model/constants/apis.dart';
+import '../../../model/models/response/products.dart';
+import '../../../model/services/api_service.dart';
+import '../../../utils/snack_bar_utils.dart';
 
 class ProductListController extends GetxController {
   var isLoading = true.obs;

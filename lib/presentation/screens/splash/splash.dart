@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_skeleton/gen/colors.gen.dart';
-import 'package:flutter_skeleton/screens/splash/splash_controller.dart';
+import 'package:flutter_skeleton/presentation/screens/splash/splash_controller.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';
 

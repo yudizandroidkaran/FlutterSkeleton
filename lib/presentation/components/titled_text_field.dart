@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:sizer/sizer.dart';
-
 import '../../gen/assets.gen.dart';
-import '../gen/colors.gen.dart';
+import '../../gen/colors.gen.dart';
+
 class TitledTextField extends StatefulWidget {
   final TextInputType? textInputType;
   final String hintText;

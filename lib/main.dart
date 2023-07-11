@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_skeleton/screens/splash/splash.dart';
-import 'package:flutter_skeleton/utils/bindings.dart';
-import 'package:flutter_skeleton/utils/storage_constants.dart';
-import 'package:flutter_skeleton/utils/themes.dart';
+import 'package:flutter_skeleton/presentation/screens/splash/splash.dart';
+import 'package:flutter_skeleton/model/bindings.dart';
+import 'package:flutter_skeleton/model/constants/storage_constants.dart';
+import 'package:flutter_skeleton/presentation/theme/theme.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:sizer/sizer.dart';

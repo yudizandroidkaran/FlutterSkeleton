@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 
 import '../constants/apis.dart';
 
-class MyDio {
+class DioService {
   final Dio dio = Dio();
 
   getDio() {
